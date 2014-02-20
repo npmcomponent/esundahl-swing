@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-swing",
+  "description": "swing animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "swing"
+  ],
+  "styles": [
+    "swing.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
